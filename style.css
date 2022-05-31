@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    font-size: 70px;
+    font-weight: 600px;
+    background-color: cadetblue;
+    color: white;
+    padding: 30px;
+}
+
+.ColumnHeader {
+    font-size: 35px;
+    border-bottom: black;
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+    border-style: solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+table {
+    align-content: flex-start;
+    border: black;
+    border-style: solid;
+}
+
+th {
+    font-size: 22px;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 10px;
+}
